@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jared, an <a href="https://linkedin.com/in/jared-e">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology Projects</h2>
 
 - <b>Microsoft Azure</b>
   - [Observing Network Traffic in Azure](https://github.com/j-esp/azure-network-protocols)
