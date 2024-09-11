@@ -1,5 +1,9 @@
 <h1>Hi, I'm Jared, an <a href="https://linkedin.com/in/jared-e">IT Professional</a>☺</h1>
 
+<h2>🖥️ Featured Projects</h2>
+
+- [Windows Server Deployment in VirtualBox](https://github.com/j-esp/Windows-Server-Deployment-in-VirtualBox)
+
 <h2>👨‍💻 Information Technology Projects</h2>
 
 - <b>Microsoft Azure</b>
