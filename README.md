@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jared, an <a href="https://linkedin.com/in/jared-e">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jared, an <a href="https://linkedin.com/in/j-esp">IT Professional</a>☺</h1>
 
 <h2>🛠️ Featured Project</h2>
 
